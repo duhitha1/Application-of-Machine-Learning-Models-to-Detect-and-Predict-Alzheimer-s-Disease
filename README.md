@@ -1,0 +1,2 @@
+# Application-of-Machine-Learning-Models-to-Detect-and-Predict-Alzheimer-s-Disease
+AI-based framework for multi-class Alzheimer’s disease classification using MRI images. This work compares machine learning and deep learning models, with SHAP and LIME used to improve interpretability and clinical relevance. The CNN model achieved the best performance, highlighting the potential of deep learning in medical image analysis.
